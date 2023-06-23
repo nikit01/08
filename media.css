@@ -77,7 +77,7 @@
         display: none;
     }
     /* vs e,hfkb r */
-    .slick-prev{
+    .slick-next{
         display: none;
     }
 }
