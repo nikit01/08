@@ -25,3 +25,5 @@ $('.collection--case--media').slick({
     centerMode: true,
     variableWidth: true
   });
+let next = document.querySelector('.slick-next');
+next.style.display = 'none';
